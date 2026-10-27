@@ -1,6 +1,6 @@
 # Release scope and correspondence
 
-Version 1.0.0 is tied to V45, not to an automatically selected latest database.
+This release uses the archived study sources identified by the source checksums in the data manifest.
 
 | Manuscript content | Supporting release |
 | --- | --- |
@@ -26,4 +26,5 @@ A graph property projection is not a full-property database. All original nodes 
 The release enables numerical inspection/reaggregation of deposited outcomes and graph structure inspection, not full map geometry reconstruction or end-to-end source retrieval. Named source papers/products remain accessible through their original providers and licences.
 
 The 221,053/498,216 main-graph counts describe the study archive, not the size of this compact public graph. Source text and machine candidate graphs are distinct from verified application cases. This distinction is part of the release, not a change to the manuscript's observations.
+
 
