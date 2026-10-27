@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+data/
+ELIKG-data/
+*.zip
+*.parquet
+LOCAL_QA_NOT_FOR_UPLOAD/
+

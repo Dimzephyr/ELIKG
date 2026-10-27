@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the fixed release used in your work. A data DOI will be added only after successful archival publication."
+type: software
+title: "ELIKG: paper-aligned graph inspection and result verification"
+version: 1.0.0
+date-released: 2026-10-27
+authors:
+  - family-names: Wang
+    given-names: Bingyao
+    orcid: "https://orcid.org/0009-0004-5708-3764"
+repository-code: "https://github.com/Dimzephyr/ELIKG"
+url: "https://github.com/Dimzephyr/ELIKG"
+license: MIT
+
