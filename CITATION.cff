@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite the fixed release used in your work. A data DOI will be added only after successful archival publication."
 type: software
-title: "ELIKG: paper-aligned graph inspection and result verification"
+title: "ELIKG: graph inspection and result verification"
 version: 1.0.0
 date-released: 2026-10-27
 authors:
@@ -11,4 +11,5 @@ authors:
 repository-code: "https://github.com/Dimzephyr/ELIKG"
 url: "https://github.com/Dimzephyr/ELIKG"
 license: MIT
+
 
