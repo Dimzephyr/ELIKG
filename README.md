@@ -2,7 +2,7 @@
 
 **Creator:** 王炳尧 (Bingyao Wang) · [ORCID 0009-0004-5708-3764](https://orcid.org/0009-0004-5708-3764)
 
-Code and documentation for a compact public supporting release aligned to manuscript **V45**.
+Code and documentation for the ELIKG knowledge graph, indicator selection experiments and regional assessment data.
 
 ## Scope
 
@@ -14,7 +14,7 @@ Article full texts, long excerpts, private credentials, and unreviewed spatial g
 
 ## Data availability
 
-The data archive is being checked and prepared for deposit. **No Zenodo DOI or completed data publication is claimed yet.** A verified archive link will be added after publication. Do not cite an invented DOI.
+Data record: [ELIKG knowledge graph, indicator selection experiments and regional assessment data (v1.0.0)](https://doi.org/10.5281/zenodo.23692391). DOI: **10.5281/zenodo.23692391**. The record's live status determines its availability.
 
 Extract the data directory as `ELIKG-data/`, or pass its actual location to the commands below. Data are deliberately not tracked in this code repository.
 
@@ -42,4 +42,5 @@ An optional write to a separate, empty local Neo4j database requires explicit `-
 - Model-assisted extraction/selection/evaluation used gpt-6-astra/max. Codex assisted release preparation and checking. The creator takes responsibility for reviewing the materials.
 
 See `docs/RELEASE_SCOPE.md` for exclusions and correspondence. Manuscript text, figures and research results have not been changed by this release.
+
 
