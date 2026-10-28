@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Please cite the published dataset when using the accompanying data; cite this repository for the code."
 type: software
-title: "ELIKG: graph inspection and result verification"
+title: "Evidence-Linked Indicator Knowledge Graph (ELIKG): graph inspection and result verification"
 version: 1.0.0
 date-released: 2026-10-27
 authors:
@@ -16,7 +16,7 @@ license: MIT
 
 preferred-citation:
   type: data
-  title: "ELIKG subgraph supporting the study, indicator selection experiments and regional assessment data"
+  title: "Evidence-Linked Indicator Knowledge Graph (ELIKG): study subgraph, indicator selection experiments and regional assessment data"
   authors:
     - family-names: Wang
       given-names: Bingyao
