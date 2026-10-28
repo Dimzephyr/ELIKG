@@ -8,13 +8,13 @@ Code and documentation for the ELIKG knowledge graph, indicator selection experi
 
 This repository provides graph-structure inspection/import, checks of deposited files, and reaggregation of the released comparison results. It includes the unchanged scientific functions of the study's KBIS baseline, without its private/full-text input bundle.
 
-The accompanying data candidate contains the **5,036-node, 10,342-relationship repaired evidence graph as an explicit property projection**, all 32 review outcomes, selection comparisons, regional configurations and exact references, annual/object-year scores, 89,302 fixed paired objects, and sensitivity results. It is **not** the full 221,053-node research graph, a full-property Neo4j backup, or an end-to-end raw satellite/model-session replay.
+The accompanying published dataset contains the **5,036-node, 10,342-relationship repaired evidence graph as an explicit property projection**, all 32 review outcomes, selection comparisons, regional configurations and exact references, annual/object-year scores, 89,302 fixed paired objects, and sensitivity results. It is **not** the full 221,053-node research graph, a full-property Neo4j backup, or an end-to-end raw satellite/model-session replay.
 
 Article full texts, long excerpts, private credentials, and unreviewed spatial geometries are not redistributed. Original IDs, directions, states, retained numeric precision and all comparison outcomes are preserved. Data licence: CC BY 4.0 for author-owned contributions; code licence: MIT.
 
 ## Data availability
 
-Data record: [ELIKG knowledge graph, indicator selection experiments and regional assessment data (v1.0.0)](https://doi.org/10.5281/zenodo.23692391). DOI: **10.5281/zenodo.23692391**. The record's live status determines its availability.
+Data record: [ELIKG knowledge graph, indicator selection experiments and regional assessment data (v1.0.0)](https://doi.org/10.5281/zenodo.23692391). DOI: **10.5281/zenodo.23692391**. Published on Zenodo. Archive file: `ELIKG_data.zip`; MD5: `244a504842dbfb9261487c072e567235`.
 
 Extract the data directory as `ELIKG-data/`, or pass its actual location to the commands below. Data are deliberately not tracked in this code repository.
 
