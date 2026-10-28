@@ -8,7 +8,7 @@ Code and documentation for the ELIKG knowledge graph, indicator selection experi
 
 This repository provides graph-structure inspection/import, checks of deposited files, and reaggregation of the released comparison results. It includes the unchanged scientific functions of the study's KBIS baseline, without its private/full-text input bundle.
 
-The accompanying published dataset contains the **5,036-node, 10,342-relationship repaired evidence graph as an explicit property projection**, all 32 review outcomes, selection comparisons, regional configurations and exact references, annual/object-year scores, 89,302 paired objects, and sensitivity results.
+The accompanying published dataset contains the **5,036-node, 10,342-relationship evidence graph as an explicit property projection**, all 32 review outcomes, selection comparisons, regional configurations and exact references, annual/object-year scores, 89,302 paired objects, and sensitivity results.
 
 Original IDs, directions, states, retained numeric precision and all comparison outcomes are preserved. Data licence: CC BY 4.0 for author-owned contributions; code licence: MIT.
 
