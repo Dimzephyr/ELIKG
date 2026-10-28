@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite the fixed release used in your work. A data DOI will be added only after successful archival publication."
+message: "Please cite the published dataset when using the accompanying data; cite this repository for the code."
 type: software
 title: "ELIKG: graph inspection and result verification"
 version: 1.0.0
@@ -13,3 +13,17 @@ url: "https://github.com/Dimzephyr/ELIKG"
 license: MIT
 
 
+
+preferred-citation:
+  type: data
+  title: "ELIKG knowledge graph, indicator selection experiments and regional assessment data"
+  authors:
+    - family-names: Wang
+      given-names: Bingyao
+      orcid: "https://orcid.org/0009-0004-5708-3764"
+  year: 2026
+  version: 1.0.0
+  doi: 10.5281/zenodo.23692391
+  url: "https://doi.org/10.5281/zenodo.23692391"
+  publisher:
+    name: Zenodo
