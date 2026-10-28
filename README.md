@@ -1,8 +1,8 @@
-# ELIKG
+# Evidence-Linked Indicator Knowledge Graph (ELIKG)
 
 **Creator:** 王炳尧 (Bingyao Wang) · [ORCID 0009-0004-5708-3764](https://orcid.org/0009-0004-5708-3764)
 
-Code and documentation for the ELIKG subgraph supporting the study, indicator selection experiments and regional assessment data.
+Code and documentation for the Evidence-Linked Indicator Knowledge Graph (ELIKG) study subgraph, indicator selection experiments and regional assessment data.
 
 ## Scope
 
@@ -10,11 +10,11 @@ This repository provides graph-structure inspection/import, checks of deposited 
 
 The accompanying published dataset contains the **ELIKG subgraph supporting the study: 5,036 nodes and 10,342 relationships, with a selected-property projection**, all 32 review outcomes, selection comparisons, regional configurations and exact references, annual/object-year scores, 89,302 paired objects, and sensitivity results.
 
-Original IDs, directions, states, retained numeric precision and all comparison outcomes are preserved. Data licence: CC BY 4.0 for author-owned contributions; code licence: MIT.
+The full research graph includes third-party text and semantic fields whose redistribution rights have not been verified; this release therefore provides the study subgraph and supporting data only. Third-party full text and restricted material are not redistributed. Original IDs, directions, states, retained numeric precision and all comparison outcomes are preserved. Data licence: CC BY 4.0 for author-owned contributions; code licence: MIT.
 
 ## Data availability
 
-Data record: [ELIKG subgraph supporting the study, indicator selection experiments and regional assessment data (v1.0.0)](https://doi.org/10.5281/zenodo.23692391). DOI: **10.5281/zenodo.23692391**. Published on Zenodo. Archive file: `ELIKG_data.zip`; MD5: `244a504842dbfb9261487c072e567235`.
+Data record: [Evidence-Linked Indicator Knowledge Graph (ELIKG): study subgraph, indicator selection experiments and regional assessment data (v1.0.0)](https://doi.org/10.5281/zenodo.23692391). DOI: **10.5281/zenodo.23692391**. Published on Zenodo. Archive file: `ELIKG_data.zip`; MD5: `244a504842dbfb9261487c072e567235`.
 
 Extract the data directory as `ELIKG-data/`, or pass its actual location to the commands below. Data are deliberately not tracked in this code repository.
 
