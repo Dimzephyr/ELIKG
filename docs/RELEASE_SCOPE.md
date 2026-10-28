@@ -1,6 +1,6 @@
 # Release scope and correspondence
 
-This release uses the archived study sources identified by the source checksums in the data manifest.
+This release provides a study subgraph of the Evidence-Linked Indicator Knowledge Graph (ELIKG) and associated data. The full graph includes third-party text and semantic fields whose redistribution rights have not been verified. Archived study sources are identified by the source checksums in the data manifest.
 
 | Manuscript content | Supporting release |
 | --- | --- |
