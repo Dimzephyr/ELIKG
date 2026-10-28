@@ -16,7 +16,7 @@ license: MIT
 
 preferred-citation:
   type: data
-  title: "ELIKG knowledge graph, indicator selection experiments and regional assessment data"
+  title: "ELIKG subgraph supporting the study, indicator selection experiments and regional assessment data"
   authors:
     - family-names: Wang
       given-names: Bingyao
